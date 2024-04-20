@@ -45,7 +45,7 @@ Enter Code：op83
 5. **Download and Preprocess the Net**: Download the railway track fault detection Resnet50 from the url. 
 
    ```
-   url：https://pan.baidu.com/s/1-_6JyI32T1S-Kk-K7YKFIQ Enter Code：sa1y
+   url: https://pan.baidu.com/s/1-_6JyI32T1S-Kk-K7YKFIQ Enter Code: sa1y
    ```
 
 6. **Explore the Jupyter Notebook**: Open the Jupyter notebook named `demo.ipynb` to understand the project implementation and execution steps. This notebook provides a detailed guide on loading the dataset, building and training the deep learning model, evaluating performance, and testing the model on sample images.
