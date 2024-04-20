@@ -1,0 +1,5 @@
+rich
+tensorflow
+pandas
+matplotlib
+opencv-python
