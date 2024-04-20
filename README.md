@@ -42,12 +42,20 @@ Enter Code：op83
    pip install -r requirements.txt
    ```  
    
-
-4. **Download and Preprocess the Net**: Download the railway track fault detection Resnet50 from the url. 
+5. **Download and Preprocess the Net**: Download the railway track fault detection Resnet50 from the url. 
 
    ```
    url：https://pan.baidu.com/s/1-_6JyI32T1S-Kk-K7YKFIQ Enter Code：sa1y
    ```
 
-5. **Explore the Jupyter Notebook**: Open the Jupyter notebook named `demo.ipynb` to understand the project implementation and execution steps. This notebook provides a detailed guide on loading the dataset, building and training the deep learning model, evaluating performance, and testing the model on sample images.
+6. **Explore the Jupyter Notebook**: Open the Jupyter notebook named `demo.ipynb` to understand the project implementation and execution steps. This notebook provides a detailed guide on loading the dataset, building and training the deep learning model, evaluating performance, and testing the model on sample images.
 
+7. **Inference**: Use the model to inference the result on photos by running the following command:
+   ```
+   python inference.py
+   ```  
+
+8. **Train**: Use the model to train your datasets by running the following command:
+   ```
+   python train.py
+   ```  
