@@ -30,6 +30,7 @@ Enter Code：op83
 
    ```
    conda create --name railway python=3.8
+   conda activate railway
    pip install -r requirements.txt
    ```
 
